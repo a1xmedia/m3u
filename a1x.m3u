@@ -176,11 +176,10 @@ https://a1xs.vip/210007
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="UK Channels",Sky Cinema Comedy FHD
 https://a1xs.vip/210005
 
-#EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="Nickelodeon UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png"" group-title="UK Channels",Nickelodeon UK FHD
-https://a1xs.vip/1000050
 #EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-name="Cartoon Network UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="UK Channels",Cartoon Network UK FHD
 https://a1xs.vip/1000050
-
+#EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="Nickelodeon UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png"" group-title="UK Channels",Nickelodeon UK FHD
+https://a1xs.vip/1000051
 
 --- 📺 US Sports
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN UHD
