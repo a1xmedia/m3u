@@ -262,10 +262,11 @@ https://a1xs.vip/40000043
 https://a1xs.vip/40000040
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="TGolf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="US Sports",Golf Channel USA FHD
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="US Sports",Golf Channel USA FHD
 https://a1xs.vip/40000060
 
-
+#EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-name="Chicago Sports Network" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="US Sports",Chicago Sports Network
+https://a1xs.vip/4000049
 
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://pixvid.org/images/2025/02/05/abc.png" group-title="US Channels",ABC
