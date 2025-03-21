@@ -377,11 +377,15 @@ https://a1xs.vip/700008
 --- 📺 EU Sports
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_1.png" group-title="EU Sports",IRE: Premier Sports 1 FHD
 https://a1xs.vip/8000021
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="EU Sports",IRE: Premier Sports 2 FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier Sports 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_Sports_2.png" group-title="EU Sports",IRE: Premier Sports 2 FHD
 https://a1xs.vip/8000022
 
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Premier Sports 21 FHD" tvg-logo="https://pixvid.org/images/2025/02/26/sportdigital-fussball.png" group-title="EU Sports",DE: Sportdigital Fussball FHD
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sportdigital Fussball" tvg-logo="https://pixvid.org/images/2025/02/26/sportdigital-fussball.png" group-title="EU Sports",DE: Sportdigital Fussball FHD
 https://a1xs.vip/120001
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="EU Sports",DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="EU Sports",DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
 
 
 --- 📺 World Sports
