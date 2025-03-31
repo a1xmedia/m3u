@@ -338,6 +338,12 @@ https://a1xs.vip/6000014
 --- 📺 CA Channels
 #EXTINF:-1 tvg-id="CP24.(CablePulse.24).ca" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="CA Channels",CP24
 https://a1xs.vip/610001
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News tvg-logo="https://i.imgur.com/tAHqKVn.png" group-title="CA Channels",CTV News
+https://a1xs.vip/610002
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-name="CTV 2" tvg-logo="https://i.imgur.com/tAHqKVn.png" group-title="CA Channels",CTV 2
+https://a1xs.vip/610003
+
+
 
 --- 📺 AU Sports
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AU Sports",Fox Sports 501 FHD
