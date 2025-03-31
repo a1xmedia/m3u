@@ -340,10 +340,10 @@ https://a1xs.vip/6000014
 https://a1xs.vip/610001
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-name="CTV News tvg-logo="https://i.imgur.com/tAHqKVn.png" group-title="CA Channels",CTV News
 https://a1xs.vip/610002
-#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-name="CTV 2" tvg-logo="https://i.imgur.com/tAHqKVn.png" group-title="CA Channels",CTV 2
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-name="CTV 2" tvg-logo="https://i.imgur.com/T2uS3V6.png" group-title="CA Channels",CTV 2
 https://a1xs.vip/610003
-
-
+#EXTINF:-1 tvg-id="CBC.News.Network.ca" tvg-name="CTV 2" tvg-logo="https://i.imgur.com/kXIXzxH.png" group-title="CA Channels",CBC News Network
+https://a1xs.vip/610004
 
 --- 📺 AU Sports
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AU Sports",Fox Sports 501 FHD
