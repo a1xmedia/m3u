@@ -25,7 +25,7 @@ https://a1xs.vip/2000016
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png group-title="UHD | 4K",MY: Astro Sports UHD
 https://a1xs.vip/9000001
-#EXTINF:-1 tvg-id="English.-.Now.Sports.4K.1.hk" tvg-name="HK: Now Sports 1 4k" tvg-logo="https://i.imgur.com/mj9zJUc.png" group-title="UHD | 4K",HK: Now Sports 1 4k
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="HK: Now Sports 1 4k" tvg-logo="https://i.imgur.com/mj9zJUc.png" group-title="UHD | 4K",HK: Now Sports 1 4k
 https://a1xs.vip/9000011
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://pixvid.org/images/2025/01/21/Hub-Premier-2-UHD.png" group-title="UHD | 4K",SG: Hub Premier 2 UHD
 https://a1xs.vip/9000012
@@ -59,18 +59,18 @@ https://a1xs.vip/iribuhd
 
 
 --- ⚽️ EPL
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="EPL",Now Sports PL 1 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="EPL",Now Sports PL 1 FHD
 https://a1xs.vip/1100001
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="EPL",Now Sports PL 2 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="EPL",Now Sports PL 2 FHD
 https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="EPL",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro Premier League 2" tvg-logo="https://pixvid.org/images/2025/02/18/Astro_Premier_League_2.webp" group-title="EPL",Astro Premier League 2
 https://a1xs.vip/1100031
 
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="EPL",Sky Sport PL NZ
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="EPL",Sky Sport PL NZ
 https://a1xs.vip/700008
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="Peacock Premier League TV" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="EPL",Peacock Premier League TV
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Peacock Premier League TV" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
@@ -384,7 +384,7 @@ https://a1xs.vip/700035
 https://a1xs.vip/700036
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="NZ Sports",SKY Sport 7 NZ
 https://a1xs.vip/700037
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="NZ Sports",Sky Sport 8 - Premier League NZ
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="NZ Sports",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
 
 
