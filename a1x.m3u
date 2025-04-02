@@ -313,6 +313,10 @@ https://a1xs.vip/300031
 https://a1xs.vip/300033
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/draQT6x.png" group-title="US Channels",Cartoon Network FHD
 https://a1xs.vip/300032
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.imgur.com/1eM0KX8.png" group-title="US Channels",Discovery Channel FHD
+https://a1xs.vip/300034
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/3TW3Qkf.png" group-title="US Channels",Animal Planet FHD
+https://a1xs.vip/300035
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
