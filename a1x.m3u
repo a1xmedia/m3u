@@ -274,6 +274,10 @@ https://a1xs.vip/40000060
 
 #EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-name="Chicago Sports Network" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="US Sports",Chicago Sports Network
 https://a1xs.vip/4000049
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/lxdcjBQ.png" group-title="US Sports",NBC Sports Bay Area
+https://a1xs.vip/400050
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="US Sports",NBC Sports Philadelphia
+https://a1xs.vip/400051
 
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/faIKUyq.png" group-title="US Channels",ABC
