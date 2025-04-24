@@ -322,6 +322,11 @@ https://a1xs.vip/300034
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/3TW3Qkf.png" group-title="US Channels",Animal Planet FHD
 https://a1xs.vip/300035
 
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/21lvh66.png" group-title="US Channels",Disney Channel
+https://a1xs.vip/300037
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Jr." tvg-logo="https://i.imgur.com/9cTFAUP.png" group-title="US Channels",Disney Junior
+https://a1xs.vip/300036
+
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
 https://a1xs.vip/6000001
@@ -415,6 +420,15 @@ https://a1xs.vip/130001
 https://a1xs.vip/130002
 #EXTINF:-1 tvg-id="SuperSport.2.al" tvg-name="AL: Super Sport 3 FHD" tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="EU Sports",AL: Super Sport 3 FHD
 https://a1xs.vip/130003
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="EU Sports",NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
 
 --- 📺 World Sports
 #EXTINF:-1 tvg-id="EPL.za" tvg-name="SuperSport PL FHD" tvg-logo="https://i.postimg.cc/GtqPXD4q/SSPL.png" group-title="World Sports",SuperSport PL FHD
