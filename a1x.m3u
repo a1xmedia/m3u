@@ -301,6 +301,8 @@ https://a1xs.vip/300006
 https://a1xs.vip/300001
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV FH" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="US Channels",truTV FHD
 https://a1xs.vip/300002
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="US Channels",TBS
+https://a1xs.vip/300038
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/nJT6QX9.png" group-title="US Channels",Comedy Central FHD
 https://a1xs.vip/300004
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy FHD" tvg-logo="https://i.imgur.com/CvxmOqV.png" group-title="US Channels",HBO Comedy FHD
@@ -327,8 +329,7 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Jr." tvg-logo="https://i.imgur.com/9cTFAUP.png" group-title="US Channels",Disney Junior
 https://a1xs.vip/300036
 
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="US Channels",TBS
-https://a1xs.vip/300038
+
 
 
 --- 📺 CA Sports
