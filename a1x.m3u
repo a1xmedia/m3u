@@ -327,6 +327,10 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Jr." tvg-logo="https://i.imgur.com/9cTFAUP.png" group-title="US Channels",Disney Junior
 https://a1xs.vip/300036
 
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="US Channels",TBS
+https://a1xs.vip/300038
+
+
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
 https://a1xs.vip/6000001
