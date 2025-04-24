@@ -184,9 +184,10 @@ https://a1xs.vip/210005
 https://a1xs.vip/1000050
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="Nickelodeon UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png"" group-title="UK Channels",Nickelodeon UK FHD
 https://a1xs.vip/1000051
-#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png"" group-title="UK Channels",Nick Jr. UK FHD
+#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. UK FHD" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="UK Channels",Nick Jr. UK FHD
 https://a1xs.vip/1000052
-
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoon UK" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="UK Channels",Nicktoon UK
+https://a1xs.vip/1000053
 
 --- 📺 US Sports
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN UHD
