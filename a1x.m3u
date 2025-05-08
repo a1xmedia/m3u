@@ -203,6 +203,10 @@ https://a1xs.vip/4000004
 https://a1xs.vip/40000045
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet FHD
 https://a1xs.vip/4000006
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="US Sports",CBS Sports Network
 https://a1xs.vip/4000008
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="US Sports",CBS Sports Golazo Network
@@ -280,13 +284,6 @@ https://a1xs.vip/4000049
 https://a1xs.vip/400050
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="US Sports",NBC Sports Philadelphia
 https://a1xs.vip/400051
-
-
-
-#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet LA Dodgers
-https://a1xs.vip/400052
-#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="US Sports",Spectrum Sportsnet Lakers
-https://a1xs.vip/400053
 
 
 --- 📺 US Channels
