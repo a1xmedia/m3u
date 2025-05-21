@@ -359,7 +359,8 @@ https://a1xs.vip/6000012
 https://a1xs.vip/6000013
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet 360 FHD" tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="CA Sports",Sportsnet 360 FHD
 https://a1xs.vip/6000014
-
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet West" tvg-logo="https://i.imgur.com/GAlu4gn.png" group-title="CA Sports",Sportsnet West
+https://a1xs.vip/6000015
 
 --- 📺 CA Channels
 #EXTINF:-1 tvg-id="CP24.(CablePulse.24).ca" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="CA Channels",CP24
