@@ -289,13 +289,13 @@ https://a1xs.vip/400051
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/faIKUyq.png" group-title="US Channels",ABC
 https://a1xs.vip/300003
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="US Channels",CNN FHD
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="US Channels",CNN
 https://a1xs.vip/300007
-#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC FHD" tvg-logo="https://i.imgur.com/hYkqMdI.png" group-title="US Channels",MSNBC FHD
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC FHD" tvg-logo="https://i.imgur.com/hYkqMdI.png" group-title="US Channels",MSNBC
 https://a1xs.vip/300008
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/iOcdEdH.png" group-title="US Channels",CNBC FHD
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/iOcdEdH.png" group-title="US Channels",CNBC
 https://a1xs.vip/300009
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/1gRfE1V.png" group-title="US Channels",CBS FHD
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/1gRfE1V.png" group-title="US Channels",CBS
 https://a1xs.vip/300010
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://i.imgur.com/m22eA9B.png" group-title="US Channels",Fox News
 https://a1xs.vip/300011
@@ -338,7 +338,10 @@ https://a1xs.vip/300036
 
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NewsMax" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="US Channels",NBC News NOW
 https://a1xs.vip/300013
-
+#EXTINF:-1 tvg-id="FOX.(KSWB).San.Diego,.CA.us" tvg-name="NewsMax" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="US Channels",FOX
+https://a1xs.vip/300014
+#EXTINF:-1 tvg-id="NBC.(WLWT).Cincinnati,.OH.us" tvg-name="NewsMax" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="US Channels",NBC
+https://a1xs.vip/300015
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
