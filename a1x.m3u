@@ -302,6 +302,13 @@ https://a1xs.vip/300011
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax" tvg-logo="https://i.imgur.com/iOjk0wy.png" group-title="US Channels",NewsMax
 https://a1xs.vip/300012
 
+#EXTINF:-1 tvg-id="FOX.(KSWB).San.Diego,.CA.us" tvg-name="FOX" tvg-logo="https://i.imgur.com/atBCo5C.png" group-title="US Channels",FOX
+https://a1xs.vip/300014
+#EXTINF:-1 tvg-id="NBC.(WLWT).Cincinnati,.OH.us" tvg-name="NBC" tvg-logo="https://i.imgur.com/3BUnPYf.png" group-title="US Channels",NBC
+https://a1xs.vip/300015
+#EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="US Channels",NBC News NOW
+https://a1xs.vip/300013
+
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://i.imgur.com/twrNvSu.png" group-title="US Channels",FXX
 https://a1xs.vip/300006
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="US Channels",TNT FHD
@@ -336,12 +343,7 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Jr." tvg-logo="https://i.imgur.com/9cTFAUP.png" group-title="US Channels",Disney Junior
 https://a1xs.vip/300036
 
-#EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/zRGFEyD.png" group-title="US Channels",NBC News NOW
-https://a1xs.vip/300013
-#EXTINF:-1 tvg-id="FOX.(KSWB).San.Diego,.CA.us" tvg-name="FOX" tvg-logo="https://i.imgur.com/atBCo5C.png" group-title="US Channels",FOX
-https://a1xs.vip/300014
-#EXTINF:-1 tvg-id="NBC.(WLWT).Cincinnati,.OH.us" tvg-name="NBC" tvg-logo="https://i.imgur.com/3BUnPYf.png" group-title="US Channels",NBC
-https://a1xs.vip/300015
+
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
