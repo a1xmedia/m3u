@@ -289,6 +289,8 @@ https://a1xs.vip/400051
 --- 📺 US Channels
 #EXTINF:-1 tvg-id="ABC.(WCPO).Cincinnati,.OH.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/faIKUyq.png" group-title="US Channels",ABC
 https://a1xs.vip/300003
+#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/L2BWgSl.png" group-title="US Channels",ABC News Live
+https://a1xs.vip/300016
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="US Channels",CNN
 https://a1xs.vip/300007
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC FHD" tvg-logo="https://i.imgur.com/hYkqMdI.png" group-title="US Channels",MSNBC
@@ -343,8 +345,7 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Jr." tvg-logo="https://i.imgur.com/9cTFAUP.png" group-title="US Channels",Disney Junior
 https://a1xs.vip/300036
 
-#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/L2BWgSl.png" group-title="US Channels",ABC News Live
-https://a1xs.vip/300016
+
 
 --- 📺 CA Sports
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="CA Sports",TSN1
