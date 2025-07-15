@@ -15,18 +15,6 @@ https://a1xs.vip/ppv4
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 5
 https://a1xs.vip/ppv5
 
---- 📺 FIFA Club World Cup
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="RUSH Sports" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="FIFA Club World Cup",CAR: RUSH Sports
-https://a1xs.vip/2501
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="Channel 5 FHD" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="FIFA Club World Cup",UK: Channel 5
-https://a1xs.vip/1000030
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="FIFA Club World Cup",US: TNT 
-https://a1xs.vip/300001
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="truTV FH" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="FIFA Club World Cup",US: truTV 
-https://a1xs.vip/300002
-#EXTINF:-1 tvg-id="Live.Football.us" tvg-name="TBS" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA Club World Cup",US: TBS
-https://a1xs.vip/300038
-
 --- 📺 UHD | 4K Channels
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="UHD | 4K",UK: Sky Sports Main Event UHD
 https://a1xs.vip/2000015
