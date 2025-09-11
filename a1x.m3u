@@ -132,6 +132,11 @@ https://a1xs.vip/2000024
 https://a1xs.vip/1000015
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN News FHD" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="UK Channels",CNN UK FHD
 https://a1xs.vip/1000016
+#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News" tvg-logo="https://i.imgur.com/0OLwnMR.png" group-title="UK Channels",GB News FHD
+https://a1xs.vip/1000017
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://i.imgur.com/OrPaXvv.png" group-title="UK Channels",Sky News FHD
+https://a1xs.vip/1000018
+
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
 https://a1xs.vip/1000001
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two FHD" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="UK Channels",BBC Two FHD
