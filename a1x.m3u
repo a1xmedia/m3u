@@ -35,7 +35,7 @@ https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
 
-#EXTINF:-1 tvg-id="DE:.Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
+#EXTINF:-1 tvg-id="Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
 https://a1xs.vip/ftv4kuhd
 #EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="Bloomberg TV UHD" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="UHD | 4K",Bloomberg TV UHD
 https://a1xs.vip/blombuhd
@@ -72,7 +72,7 @@ https://a1xs.vip/700008
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Peacock Premier League TV" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="EPL",Peacock Premier League TV
 https://a1xs.vip/1100021
 
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
+#EXTINF:-1 tvg-id="USA.Network.-.Eastern.Feed.us" tvg-name="USA Network FHD" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="EPL",USA Network FHD
 https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Hub Premier 1 FHD
@@ -130,7 +130,7 @@ https://a1xs.vip/2000024
 --- 📺 UK Channels
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News FHD" tvg-logo="https://i.imgur.com/wZcplCT.png" group-title="UK Channels",BBC News FHD
 https://a1xs.vip/1000015
-#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN News FHD" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="UK Channels",CNN UK FHD
+#EXTINF:-1 tvg-id="CNN.HD.uk" tvg-name="CNN News FHD" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="UK Channels",CNN UK FHD
 https://a1xs.vip/1000016
 #EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News" tvg-logo="https://i.imgur.com/0OLwnMR.png" group-title="UK Channels",GB News FHD
 https://a1xs.vip/1000017
@@ -159,7 +159,7 @@ https://a1xs.vip/1000030
 https://a1xs.vip/1000032
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="MORE4 FHD" tvg-logo="https://i.imgur.com/cUMgPAZ.png" group-title="UK Channels",More4 FHD
 https://a1xs.vip/1000034
-#EXTINF:-1 tvg-id="4seven.ukk" tvg-name="4Seven FHD" tvg-logo="https://i.imgur.com/DtUIn7I.png" group-title="UK Channels",4Seven FHD
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4Seven FHD" tvg-logo="https://i.imgur.com/DtUIn7I.png" group-title="UK Channels",4Seven FHD
 https://a1xs.vip/1000036
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="FILM4 FHD" tvg-logo="https://i.imgur.com/OjiHaqa.png" group-title="UK Channels",Film4 FHD
 https://a1xs.vip/1000035
@@ -253,21 +253,19 @@ https://a1xs.vip/40000048
 
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="US Sports",FanDuel TV
 https://a1xs.vip/40000046
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-name="FanDuel Sports North" tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="US Sports",FanDuel Sports North
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.HDTV.us" tvg-name="FanDuel Sports North" tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="US Sports",FanDuel Sports North
 https://a1xs.vip/4000057
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel Sports Florida" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="US Sports",FanDuel Sports Florida
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Florida).us" tvg-name="FanDuel Sports Florida" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="US Sports",FanDuel Sports Florida
 https://a1xs.vip/4000050
-#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" tvg-name="FanDuel Sports Sun" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="US Sports",FanDuel Sports Sun
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Extra.HDTV.(Sun).us" tvg-name="FanDuel Sports Sun" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="US Sports",FanDuel Sports Sun
 https://a1xs.vip/4000051
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-name="FanDuel Sports West" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="US Sports",FanDuel Sports West
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.HDTV.us" tvg-name="FanDuel Sports West" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="US Sports",FanDuel Sports West
 https://a1xs.vip/4000052
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.us" tvg-name="FanDuel Sports South" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="US Sports",FanDuel Sports South
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.(Atlanta.DMA).24/7.HDTV.us" tvg-name="FanDuel Sports South" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="US Sports",FanDuel Sports South
 https://a1xs.vip/4000053
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="US Sports",FanDuel Sports Midwest
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.us" tvg-name="FanDuel Sports Midwest" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="US Sports",FanDuel Sports Midwest
 https://a1xs.vip/4000054
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-name="FanDuel Sports Great Lakes" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_GLakes.png" group-title="US Sports",FanDuel Sports Great Lakes
-https://a1xs.vip/4000055
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="US Sports",FanDuel Sports Wisconsin
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us" tvg-name="FanDuel Sports Wisconsin" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="US Sports",FanDuel Sports Wisconsin
 https://a1xs.vip/4000056
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="Willow Cricket FHD" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="US Sports",Willow Cricket FHD
@@ -275,9 +273,9 @@ https://a1xs.vip/40000042
 #EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-name="Willow Cricket Xtra FHD" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="US Sports",Willow Cricket Xtra
 https://a1xs.vip/40000043
 
-#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel FHD
+#EXTINF:-1 tvg-id="Tennis.Channel.us" tvg-name="Tennis Channel FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel FHD
 https://a1xs.vip/40000040
-#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
+#EXTINF:-1 tvg-id="Tennis.Channel.us" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="US Sports",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel USA FHD" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="US Sports",Golf Channel USA FHD
 https://a1xs.vip/40000060
