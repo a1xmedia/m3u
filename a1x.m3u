@@ -68,6 +68,8 @@ https://a1xs.vip/1100002
 https://a1xs.vip/1100030
 #EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro Premier League 2" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Astro_Premier_League_2.webp" group-title="EPL",Astro Premier League 2
 https://a1xs.vip/1100031
+#EXTINF:-1 tvg-id="Astro.Premier.League.3.my" tvg-name="Astro Grandstand" tvg-logo="https://i.imgur.com/0vxakz2.png" group-title="EPL",Astro Grandstand
+https://a1xs.vip/1100032
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="EPL",Sky Sport PL NZ
 https://a1xs.vip/700008
