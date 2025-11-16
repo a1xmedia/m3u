@@ -299,7 +299,7 @@ https://a1xs.vip/300003
 https://a1xs.vip/300016
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="ABC" tvg-logo="https://i.imgur.com/iXbtNPJ.png" group-title="US Channels",CNN
 https://a1xs.vip/300007
-#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC FHD" tvg-logo="https://i.imgur.com/hYkqMdI.png" group-title="US Channels",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/MS-NOW.png" group-title="US Channels",MS NOW
 https://a1xs.vip/300008
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/iOcdEdH.png" group-title="US Channels",CNBC
 https://a1xs.vip/300009
